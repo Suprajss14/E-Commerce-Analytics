@@ -1,19 +1,4 @@
-Here are two tailored descriptions:  
 
----
-
-### **Unstop Profile Description (Concise & Impactful)**  
-**Data Analytics on E-commerce Transactions**  
-Developed a data analytics pipeline that ingests, processes, and analyzes an **e-commerce dataset** using **Python, MySQL, Pandas, and Seaborn**. The system extracts insights such as **sales trends, customer distribution, and category-wise revenue**, enabling businesses to make data-driven decisions. Integrated SQL queries for structured analysis and leveraged data visualization to enhance interpretability.  
-
-**Key Highlights:**  
-✅ Automated **CSV-to-SQL** data ingestion  
-✅ Queried **customer locations, sales trends, and product analytics**  
-✅ Visualized insights using **Matplotlib & Seaborn**  
-
----
-
-### **GitHub README (Detailed & Structured)**  
 
 # **E-commerce Data Analytics Project**  
 🚀 **Unlocking Business Insights with Data Analysis**  
@@ -69,6 +54,4 @@ GROUP BY p.product_category;
 ✔️ **Sales & revenue insights**  
 ✔️ **Data-driven recommendations for e-commerce businesses**  
 
----
 
-Would you like any modifications? 🚀
